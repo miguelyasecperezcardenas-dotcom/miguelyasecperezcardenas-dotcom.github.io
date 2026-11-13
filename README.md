@@ -50,12 +50,16 @@ Me gusta resolver incidentes de principio a fin: diagnosticar, documentar en tic
 
 ### Proyectos freelance
 
-> _Sección por confirmar con Miguel: qué proyectos puede mostrar públicamente, con qué nombre, descripción, capturas y enlace._
+#### Visor de CFDI — ADVPL TOTVS (Módulo Financiero)
+- Visor de CFDI en ADVPL para TOTVS Protheus (módulo Financiero): ingesta de XML CFDI 4.0, navegación y detalle de comprobantes, catálogos del SAT, conciliación de facturas PPD contra complementos de pago, control de complementos a medio emitir, estatus ante el SAT y exportación a Excel.
+- _Tecnologías:_ ADVPL, TOTVS Protheus, TopConnect/Oracle, XmlParser, FWMBrowse.
+- _Ficha y código sanitizado:_ [projects/visor-cfdi](projects/visor-cfdi/README.md) · [src](projects/visor-cfdi/src).
+
+Otros proyectos por detallar:
 
 - Página para levantamiento de tickets
 - Bots de Telegram
 - Automatización con IA y Python
-- Mejoras en ADVPL TOTVS
 - Consultas SQL para clientes
 
 ### Educación
@@ -116,12 +120,16 @@ I like to resolve incidents end to end: diagnose, document in a ticket, escalate
 
 ### Freelance projects
 
-> _Section to be confirmed with Miguel: which projects can be shown publicly, with name, description, screenshots and link._
+#### CFDI Viewer — ADVPL TOTVS (Financial Module)
+- CFDI viewer in ADVPL for TOTVS Protheus (Financial module): CFDI 4.0 XML ingestion, document navigation and detail, SAT catalogs, PPD invoice reconciliation against payment complements, half-issued complement control, SAT status query and Excel export.
+- _Technologies:_ ADVPL, TOTVS Protheus, TopConnect/Oracle, XmlParser, FWMBrowse.
+- _Project card and sanitized code:_ [projects/visor-cfdi](projects/visor-cfdi/README.md) · [src](projects/visor-cfdi/src).
+
+Other projects to be detailed:
 
 - Ticket submission page
 - Telegram bots
 - AI and Python automation
-- ADVPL TOTVS improvements
 - SQL queries for clients
 
 ### Education
